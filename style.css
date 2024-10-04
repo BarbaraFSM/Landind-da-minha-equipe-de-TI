@@ -2,11 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f4f4f4a9;
 }
 header {
-    background-color: #333;
-    color: white;
+    background-color: #0063e6;
+    color: rgb(255, 255, 255);
     padding: 1rem 0;
     text-align: center;
 }
@@ -16,10 +16,10 @@ header h1 {
 .intro {
     padding: 3rem;
     text-align: center;
-    background-color: #fff;
+    background-color: #ffffff1f;
 }
 .intro h2 {
-    color: #333;
+    color: #0063e6;
 }
 .intro p {
     font-size: 1.2rem;
@@ -46,7 +46,7 @@ header h1 {
     margin-bottom: 1rem;
 }
 .team-member h3 {
-    color: #333;
+    color: #0063e6;
     margin-bottom: 0.5rem;
 }
 .team-member p {
@@ -64,7 +64,7 @@ header h1 {
 }
 .cta-section button {
     padding: 1rem 2rem;
-    background-color: #ff9900;
+    background-color: #00ffff;
     border: none;
     color: white;
     font-size: 1.2rem;
@@ -72,10 +72,10 @@ header h1 {
     cursor: pointer;
 }
 .cta-section button:hover {
-    background-color: #e68a00;
+    background-color: #00d7e6;
 }
 footer {
-    background-color: #333;
+    background-color: #777272;
     color: white;
     padding: 1rem;
     text-align: center;
